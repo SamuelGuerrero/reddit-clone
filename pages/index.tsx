@@ -10,7 +10,6 @@ const Home: NextPage = () => {
       <Head>
         <title>Reddit 2.0 Clone</title>
       </Head>
-
       {/* PostBox */}
       <PostBox />
 
